@@ -1,4 +1,5 @@
 # BattleBots
+Simple, wifi controlled robots for demonstrating Arduino development and because robots!
 
 ## Code Folder
 This folder contains the Arduino Code for the robot and the html/js/css for the control page.
