@@ -1,0 +1,32 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=FeatherServoShield
+*Date=21:07:11
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;34.2545;-11.5069;0;Bottom;J5
+2;;THT;36.7945;-11.5109;0;Bottom;J6
+3;;;6.7765;-17.0636;0;Bottom;TXT1
+4;;THT;39.3345;-11.5069;0;Bottom;J7
+5;;THT;49.4945;-11.5109;0;Bottom;J11
+6;;THT;31.7145;-16.5988;0;Bottom;J4
+7;;THT;41.8745;-11.5069;0;Bottom;J8
+8;;THT;46.9545;-11.5109;0;Bottom;J10
+9;;;5.94372;-15.9321;0;Bottom;TXT1
+10;;;5.98519;-7.94124;0;Bottom;TXT3
+11;;THT;29.1745;-16.5948;0;Bottom;J3
+12;;THT;26.6345;-16.5948;0;Bottom;Right
+13;;;5.95025;-6.75308;0;Bottom;TXT4
+14;;;25.3735;-11.4818;0;Bottom;Part2
+15;;;7.21622;-9.12911;0;Bottom;TXT2
+16;;THT;44.4145;-11.5109;0;Bottom;J9
+17;;THT;24.0945;-16.5948;0;Bottom;Left
